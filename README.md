@@ -47,6 +47,7 @@ Drop into the Python console and add the needed nltk modules by running the foll
 
 
 Now launch the MoG:
+
 ```python mog.py```
 
 
